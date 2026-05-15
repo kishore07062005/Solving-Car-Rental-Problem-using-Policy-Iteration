@@ -25,6 +25,8 @@ To implement the Policy Iteration Algorithm for solving the Car Rental Problem i
 
 ## Program
 
+```
+
 #Solving car rental problem using Policy Iteration 
 
 import numpy as np
@@ -132,6 +134,8 @@ print(policy)
 
 print("\nOptimal Value Function:\n")
 print(V)
+
+```
 
 ---
 
